@@ -25,3 +25,8 @@ body {
   width: 100vw;
   height: 100vh;
 }
+.container__controlButtons {
+  padding: 5px;
+  margin: auto;
+  display: flex;
+}
